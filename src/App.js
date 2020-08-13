@@ -33,7 +33,7 @@ export default class App extends Component {
 
     return (
       <Container>
-        <h1>React Lifecycle</h1>
+        <h1>List users with a switch</h1>
         <Toggle
           description="Show Users"
           enabled={showUsers}
