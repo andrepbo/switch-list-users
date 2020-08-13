@@ -30,3 +30,22 @@ The application uses the React lifecycle to list users and count how long the co
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Live-server](https://www.npmjs.com/package/live-server)
+
+## How to use
+Clone and run the application from the command line. You'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) installed on your computer.
+
+From the command line:
+
+```bash
+# Clone the repository
+$ git clone https://github.com/andrepbo/switch-list-users
+
+# Go into the repository
+$ cd switch-list-users
+
+# Install dependencies
+$ yarn
+
+# Start server
+$ yarn start
+```
